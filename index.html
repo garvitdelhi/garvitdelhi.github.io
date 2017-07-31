@@ -4,7 +4,10 @@ layout: default
 
 <div class="teaserimage">
     <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
-        Teaser Image
+        Photo by Thought Catalog on Unsplash
+    </div>
+    <div class="teaserimage-credits">
+        {% if site.cover_credits %} {{ site.cover_credits }} {% endif %}
     </div>
 </div>
 

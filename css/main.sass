@@ -43,18 +43,20 @@ body
   position: fixed
   left: 10px
   top: 10px
-  width: $rs*3
-  height: $rs*3
+  width: $rs/4*10
+  height: $rs/4*10
   background-color: #000
   overflow: hidden
   z-index: 99
+  border-radius: 50%
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 10px, rgba(0, 0, 0, 0.23) 0px 3px 10px
   .logo
     display: block
     position: absolute
     top: $rs/2
     left: $rs/2
-    width: $rs*2
-    height: $rs*2
+    width: $rs/4*6
+    height: $rs/4*6
     background-size: cover
     background-repeat: no-repeat
 
@@ -73,6 +75,11 @@ body
     bottom: 0
     z-index: 1
     text-indent: -9999px
+  .teaserimage-credits
+    position: absolute
+    z-index: 2
+    bottom: 16px
+    right: 8px
 
 .blog-header
   width: 100%

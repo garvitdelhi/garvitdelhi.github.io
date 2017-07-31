@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GSOC 2015"
+date:   2015-05-23 14:34:25
+categories: KDE GSOC
+tags: KDE
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+
+I got accepted for the project, Integration of Cantor into LabPlot in this year's google summer of code (GSOC) under mentor Alexander Semke with KDE Organization. Looking forward to...
+
+![Google Summer of Code]({{ site.url }}/assets/article_images/2015-05-23-gsoc-2015/image01.jpg)
+
+First phase to GSOC 2015 has ended, that is community bonding period. I have tried my best to interact with my mentor and community members, but I was mostly occupied with my university examination during most of the time. 
+
+Looking forward to the coding period I have started working on integration of Cantor's UI into LabPlot. I will push all my commits to branch integrate-cantor[[1]](https://projects.kde.org/projects/kdereview/labplot/repository/show?rev=integrate-cantor) of LabPlot. 
+
+Looking forward to learn, code and develop this summer !
