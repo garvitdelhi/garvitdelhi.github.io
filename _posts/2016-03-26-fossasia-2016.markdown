@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "FOSSASIA 2016"
+date:   2016-03-26 14:34:25
+categories: KDE GSOC
+tags: KDE
+image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
+---
+
+Thank you FOSSASIA for inviting me to share my experience with different developers around the globe. It was an exciting place to meet and make new friends, share our experience and learn from other's experience. I would also like to thank Google and KDE for helping me financially and sending me to this year's FOSSASIA. The event was very well planned and executed. I hope the participants find all the talks and workshops effective and implement them someday.
+
+![]({{ site.url }}/assets/article_images/2016-03-26-fossasia-2016/25266053284_c0e04db2a9_z.jpg)
+
+All the speakers had something inspirational to the audience in their talk, who seem to be enthusiastic too. I was amazed to see small kids interested in software development. I helped Jigyasa Grover and Mohammad Umair in taking an Android session for school kids which excited me the most to help around small kids getting started with android development.
+
+![]({{ site.url }}/assets/article_images/2016-03-26-fossasia-2016/906cee9c-908a-4b22-bc4e-0aeed41c277f.jpg)
+
+It was amazing to meet Stephanie and Catherine in person. They shared their GSOC experience and how such a big event is managed and successfully organised from past 12 years continuously.
+
+I also met Mike McQuaid and had a healthy chat about homebrew and GitHub (where he is currently working)
+
+![]({{ site.url }}/assets/article_images/2016-03-26-fossasia-2016/25903313156_1ac6f31ae9_z.jpg)
+
+It was a great experience hope to be in touch with all the new developers I met :)
