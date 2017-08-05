@@ -3,7 +3,9 @@ layout: default
 ---
 
 <div class="teaserimage">
-    <img src="{{ site.cover | prepend: site.baseurl }}" alt="{{ site.cover_description }}" style="margin-top: -250px;">
+    <div class="teaserimage-image" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }})"{% endif %}>
+        {% if site.cover_description %} {{ site.cover_description }} {% endif %}
+    </div>
     <div class="teaserimage-credits">
         {% if site.cover_credits %} {{ site.cover_credits }} {% endif %}
     </div>
