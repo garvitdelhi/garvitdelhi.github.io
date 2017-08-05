@@ -4,7 +4,6 @@ title:  "Building KF5 KDE Game "
 date:   2015-01-05 14:34:25
 categories: KDE SOK
 tags: KDE
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
 My journey in SoK (Season of KDE) 2014 has been official ended. While I was working in KDE-Games I found that there is no such guide on how to build and get started with development of KDE-Games. So I have written a small guide on how to set-up building environment for KDE-Games based on my experience in SoK 2014. I would love to share it with the KDE members.
@@ -20,7 +19,7 @@ I recommend you to go through “Getting started Page” before reading this doc
 Steps
 
 Install Qt 5.x. For more info about installing Qt 5.x, go to Qt official Page. You might need to export the Qt path if it is installed in a local directory. Simply put the mentioned lines in your .profile or bashrc file.
-   
+
 PATH=/Path/to/Qt5/gcc_64/bin:$PATH
 export PATH
 
@@ -39,7 +38,7 @@ This will create a directory with libkdegames source code inside.
 Checkout it’s frameworks branch
 
     git checkout frameworks
-   
+
 Make a build directory where you will be building KF5KDEGames
 
     mkdir build && cd build
@@ -75,12 +74,12 @@ Now we will make a “build” directory and get started with building the app k
     cmake ../
 
 Now we start compiling the code
-   
+
     make
 
 You can also use make -j4 for multiprocessing and increasing the compiling speed.
 Once we have a clean compile, it’s time to install knetwalk (you might need root privileges for this).
-   
+
 make install
 
 With this, we have installed knetwalk (ported to kf5).
