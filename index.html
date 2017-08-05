@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="teaserimage">
-    <img src="/assets/images/test_header.jpg" style="margin-top: -250px;  height: 956px;">
+    <img src="{{ site.cover | prepend: site.baseurl }}" alt="{{ site.cover_description }}" style="margin-top: -250px;">
     <div class="teaserimage-credits">
         {% if site.cover_credits %} {{ site.cover_credits }} {% endif %}
     </div>
