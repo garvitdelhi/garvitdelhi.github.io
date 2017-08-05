@@ -4,7 +4,6 @@ title:  "QtCon && Akademy 2016"
 date:   2016-09-14 14:34:25
 categories: KDE GSOC
 tags: KDE
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
 This year Akademy took place along with QtCon in Berlin, Germany. 2016 is a special year for many FOSS projects: KDE has its 20th birthday while FSFE and VideoLAN both have their 15th anniversary. So, this year KDE, Qt, FSFE, VideoLAN and KDAB came together to bring QtCon, where attendees met, collaborate and got the latest news of all these projects at the bcc in Berlin from the 1st to the 4th of September 2016. Following QtCon was KDE's Akademy BoF.

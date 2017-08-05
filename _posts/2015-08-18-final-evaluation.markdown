@@ -4,7 +4,6 @@ title:  "Final evaluation"
 date:   2015-08-18 14:34:25
 categories: KDE GSOC
 tags: KDE
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
 As we all know we have our final evaluation of our GSOC project next week. I have completed my project and would like to display how the integration between Cantor and LabPlot works.

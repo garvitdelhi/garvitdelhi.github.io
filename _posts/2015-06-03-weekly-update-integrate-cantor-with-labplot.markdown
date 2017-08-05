@@ -4,7 +4,6 @@ title:  "Weekly Update: Integrate Cantor with LabPlot"
 date:   2015-06-03 14:34:25
 categories: KDE GSOC
 tags: KDE
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
 This is a weekly update on my GSOC 2015 Project Integrate Cantor with LabPlot. As I mentioned in my last post that I will be starting my work with integration of UI of Cantor inside LabPlot. I would like to inform my fellow developers that I have integrated the UI successfully. I present the screenshots hereafter.

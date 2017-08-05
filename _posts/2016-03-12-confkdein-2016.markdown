@@ -4,7 +4,6 @@ title:  "conf.kde.in 2016"
 date:   2016-03-12 14:34:25
 categories: KDE GSOC
 tags: KDE
-image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
 This year's conf.kde.in was organised in Jaipur. I was super excited to be part of KDE India and conf.kde.in for the first time. I was taken back by the preparations that volunteers had done. I really want to take some moment to put forward my thanks to the whole LNMIIT team for such a great welcome and hospitality. Special thanks to "Sagar Chand Agarwal" who made his whole effort in making the conference a success.
