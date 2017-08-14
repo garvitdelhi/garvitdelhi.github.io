@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "A Software developer's blog :P"
+title: "Garvit Khatri"
 description: > # this means to ignore newlines until "email:"
-   This blog is my journey to the development world. You will find about open source, projects on C++, Javascript, python and others.
+    Hey there! I am writing this blog to share my software development experience with you about projects on C++, Javascript, python and system administration.
 
 email: garvitdelhi@gmail.com
 #blog logo
