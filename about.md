@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+title: About Me
+description: All about Garvit Khatri.
 permalink: /about/
 ---
 
