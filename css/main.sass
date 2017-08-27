@@ -1,9 +1,12 @@
 ---
+sitemap:
 ---
 
 @import 'syntax-highlighting'
 
 @import 'bourbon/bourbon'
+
+@import 'refills'
 
 .cf
   @include clearfix
@@ -247,32 +250,16 @@ body
     right: 0
     bottom: 0
     overflow: hidden
-    @media(min-width: 700px)
-      .post-image-image
-        background-size: cover
-        position: absolute
-        top: 0
-        left: 0
-        right: 0
-        bottom: 0
-        text-indent: -9999px
-        padding-top: 33%
-        z-index: 1
-      .post-image-image2
-        display: none
-    @media(max-width: 700px)
-      .post-image-image
-        display: none
-      .post-image-image2
-        background-size: cover
-        position: absolute
-        top: 0
-        left: 0
-        right: 0
-        bottom: 0
-        text-indent: -9999px
-        padding-top: 33%
-        z-index: 1
+    .post-image-image
+      background-size: cover
+      position: absolute
+      top: 0
+      left: 0
+      right: 0
+      bottom: 0
+      text-indent: -9999px
+      padding-top: 33%
+      z-index: 1
     .post-meta
       position: absolute
       bottom: $rs*5
@@ -529,9 +516,22 @@ body
           padding-bottom: 18px
           font-weight: 700
           color: #333
+
+.post-footer
+  display: flex
+
+.tags
+  color: #b3b3b1
+
+.tag
+  color: #b3b3b1
+  text-decoration: none
+.tag:hover
+  color: #7b7b7b
+
 .share
+  flex-grow: 1
   text-align: right
-  padding: 20px 0 0
   a
     text-decoration: none
     color: #bbb
