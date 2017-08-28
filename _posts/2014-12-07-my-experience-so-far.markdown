@@ -2,7 +2,6 @@
 layout: post
 title:  "My Experience so far"
 date:   2014-12-07 14:34:25
-categories: KDE SOK
 tags: KDE
 ---
 Its being quite a while that sok has started, though I was not so active for the first half of the winter because of my university exams.I started working on my project in December. It was all new experience getting selected into sok. Before getting into sok I was a web developer and contributed to typo3 neos (the content management system), I was more into php and js stuff rather than being into c++. I had used c++ only for learning algorithms, data structures or at maximum for competitive

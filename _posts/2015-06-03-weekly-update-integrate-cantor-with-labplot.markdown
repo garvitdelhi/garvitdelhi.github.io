@@ -2,7 +2,6 @@
 layout: post
 title:  "Weekly Update: Integrate Cantor with LabPlot"
 date:   2015-06-03 14:34:25
-categories: KDE GSOC
 tags: KDE
 ---
 

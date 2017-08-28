@@ -2,7 +2,6 @@
 layout: post
 title:  "Kde Sok-2014"
 date:   2014-11-28 14:34:25
-categories: KDE
-tags: [KDE, SOK]
+tags: KDE SOK
 ---
 Well I finally got my project accepted at this years kde Sok14 looking forward to an interesting winter ahead.
