@@ -2,7 +2,6 @@
 layout: post
 title:  "conf.kde.in 2016"
 date:   2016-03-12 14:34:25
-categories: KDE GSOC
 tags: KDE
 ---
 

@@ -2,7 +2,6 @@
 layout: post
 title:  "Building KF5 KDE Game "
 date:   2015-01-05 14:34:25
-categories: KDE SOK
 tags: KDE
 ---
 
