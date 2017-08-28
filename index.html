@@ -53,7 +53,6 @@ sitemap:
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-  <!--            <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span>-->
             </div>
           </div>
         </article>
@@ -73,9 +72,16 @@ sitemap:
             <section class="post-excerpt" itemprop="description">
               <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
-            <div class="post-meta">
+            <div class="post-meta" style="display:flex;">
+              <section class="tags" style="flex-grow: 1">
+                  {% if post.tags %}
+                      Tags:
+                      {% for tag in post.tags %}
+                        <a class="tag" href="/tags#{{ tag | slugify }}-ref">#{{ tag }}</a>&nbsp;
+                      {% endfor %}
+                  {% endif %}
+              </section>
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-<!--             <span class="post-tags-set">on {{#foreach tags}}<span class="post-tag-{{slug}}">{{#if @first}}{{else}}, {{/if}}<a href="/tag/{{slug}}">{{name}}</a></span>{{/foreach}}</span> -->
             </div>
           </div>
         </article>
@@ -95,9 +101,4 @@ sitemap:
         {% endif %}
       {% endif %}
     </nav>
-
-
-    <!-- {{!! After all the posts, we have the previous/next pagination links }}
-    {{pagination}} -->
-
 </main>
