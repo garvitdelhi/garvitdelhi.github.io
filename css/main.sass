@@ -88,7 +88,13 @@ body
   width: 100%
   max-width: 640px
   margin: 0 auto
-  position: relative
+  position: absolute
+  z-index: 1
+  top: 150px
+  left: 0
+  right: 0
+  margin-left: auto
+  margin-right: auto
   padding: 0
   @include box-sizing(border-box)
   @include respond-to(800)
@@ -104,7 +110,6 @@ body
     border-radius: 50%
     z-index: 99
     text-indent: -9999px
-    border: 3px solid #fff
     background-color: #fff
     -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
     -moz-box-shadow: 0 1px 1px rgba(0,0,0,0.3)
@@ -119,24 +124,24 @@ body
     outline: 0
     line-height: 50px
     word-break: break-word
-    color: #333
+    color: #fff
   .blog-description
     margin: 0 0 20px
     padding: 0 $rs*2
     font-size: $rs/8*9
     line-height: 1.5
-    color: #666
+    color: #fff
     text-align: center
     font-weight: 400
   .custom-links
     margin: 0 0 50px
     text-align: center
-    color: #ccc
+    color: #fff
     a
       text-decoration: none
-      color: #999
+      color: #fff
       &:hover
-        color: #333
+        color: #bbb
 
 .content
   width: 100%
