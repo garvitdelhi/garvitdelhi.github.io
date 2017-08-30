@@ -63,27 +63,29 @@ sitemap:
 
     <div class="cf frame">
       {% for post in paginator.posts %}
-        <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
-          <div class="article-item">
-            <header class="post-header">
-              <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
-            </header>
-            <section class="post-excerpt" itemprop="description">
-              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-            </section>
-            <div class="post-meta-footer" style="display:flex;">
-              <section class="tags" style="flex-grow: 1">
-                  {% if post.tags %}
-                      Tags:
-                      {% for tag in post.tags %}
-                        <a class="tag" href="/tags#{{ tag | slugify }}-ref">#{{ tag }}</a>&nbsp;
-                      {% endfor %}
-                  {% endif %}
-              </section>
-              <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
-            </div>
-          </div>
-        </article>
+        {% if post.draft != 1 %}
+            <article class="post" itemscope itemtype="http://schema.org/BlogPosting" role="article">
+              <div class="article-item">
+                <header class="post-header">
+                  <h2 class="post-title" itemprop="name"><a href="{{ post.url }}" itemprop="url">{{ post.title }}</a></h2>
+                </header>
+                <section class="post-excerpt" itemprop="description">
+                  <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+                </section>
+                <div class="post-meta-footer" style="display:flex;">
+                  <section class="tags" style="flex-grow: 1">
+                      {% if post.tags %}
+                          Tags:
+                          {% for tag in post.tags %}
+                          <a class="tag" href="/tags#{{ tag | slugify }}-ref">{{ tag }}{% if forloop.last == false %}, {% endif %}</a>
+                          {% endfor %}
+                      {% endif %}
+                  </section>
+                  <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
+                </div>
+              </div>
+            </article>
+        {% endif %}
       {% endfor %}
     </div>
 

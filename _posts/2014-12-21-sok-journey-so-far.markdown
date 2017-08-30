@@ -2,7 +2,6 @@
 layout: post
 title:  "SoK Journey So Far"
 date:   2014-12-21 14:34:25
-categories: KDE SOK
 tags: KDE
 ---
 This month so far was full of shocking news. My mentor Anuj pahuja informed me that someone has already ported app kturtle which i had to port during the SoK duration. He said that this work was done when i was busy in my annual examination. But i thank alot to my mentor that he stood with me and helped me get another app so that i can port it. So now i am working on porting app KNetWalk that belong to Kde Games.
