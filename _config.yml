@@ -34,15 +34,15 @@ defaults:
   -
     scope:
         path: ''
-        type: tags
+        type: "tags"
     values:
         permalink: "/tag/:title/"
-        layout: tag
-        tag:
+        layout: "tag"
+        tag: "Tech"
 
 collections:
     tags:
-        title: Tags
+        title: "Tags"
         output: true
 
 email: garvitdelhi@gmail.com
