@@ -2,7 +2,7 @@
 layout: post
 title:  "My Experience so far"
 date:   2014-12-07 14:34:25
-tags: KDE
+tags: SoK KDE Tech
 ---
 Its being quite a while that sok has started, though I was not so active for the first half of the winter because of my university exams.I started working on my project in December. It was all new experience getting selected into sok. Before getting into sok I was a web developer and contributed to typo3 neos (the content management system), I was more into php and js stuff rather than being into c++. I had used c++ only for learning algorithms, data structures or at maximum for competitive
 programming. when i got to know about sok i started learning the Qt framework and tried building few apps, and that experienced was awesome I never imagined the power it had and how easy it was for me to learn it. After I made few apps I submitted my proposal to kde SoK and finally got selected for one of my two ideas proposed.

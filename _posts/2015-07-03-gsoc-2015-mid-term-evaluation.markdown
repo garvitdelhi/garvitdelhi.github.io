@@ -2,7 +2,7 @@
 layout: post
 title:  "GSoC 2015 (Mid Term Evaluation)"
 date:   2015-07-03 14:34:25
-tags: KDE
+tags: GSOC KDE Tech
 ---
 The Midterm evaluation week has almost come to an end and midterm evaluation deadline ends today. This post will describe about what all I have achieved in my project "Integration of Cantor with LabPlot" and what I plan to do further.
 
