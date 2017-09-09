@@ -36,7 +36,7 @@ defaults:
         path: ''
         type: "tags"
     values:
-        permalink: "/tag/:title/"
+        permalink: "/tag/:slug/"
         layout: "tag"
         tag: "Tech"
 

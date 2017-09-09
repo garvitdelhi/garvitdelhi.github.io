@@ -9,7 +9,7 @@ permalink: /tags/
 <ul>
   {% for tag in tags_list %}
     <li>
-      <a href="/tag/{{ tag.title }}" class='list-group-item'>{{ tag.title }}</a>
+      <a href="/tag/{{ tag.title | slugify }}" class='list-group-item'>{{ tag.title }}</a>
     </li>
   {% endfor %}
 </ul>

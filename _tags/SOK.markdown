@@ -1,3 +1,4 @@
 ---
 title: SoK
+slug: sok
 ---
