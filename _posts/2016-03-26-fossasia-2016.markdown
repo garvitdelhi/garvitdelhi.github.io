@@ -2,7 +2,7 @@
 layout: post
 title:  "FOSSASIA 2016"
 date:   2016-03-26 14:34:25
-tags: KDE
+tags: Conf KDE Tech
 ---
 
 Thank you FOSSASIA for inviting me to share my experience with different developers around the globe. It was an exciting place to meet and make new friends, share our experience and learn from other's experience. I would also like to thank Google and KDE for helping me financially and sending me to this year's FOSSASIA. The event was very well planned and executed. I hope the participants find all the talks and workshops effective and implement them someday.

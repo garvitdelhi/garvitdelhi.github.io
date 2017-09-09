@@ -2,7 +2,7 @@
 layout: post
 title:  "Final evaluation"
 date:   2015-08-18 14:34:25
-tags: KDE
+tags: GSOC KDE Tech
 ---
 
 As we all know we have our final evaluation of our GSOC project next week. I have completed my project and would like to display how the integration between Cantor and LabPlot works.

@@ -2,7 +2,7 @@
 layout: post
 title:  "5 Myths about reading"
 date:   2017-09-02 6:29:31
-tags: Personal Reading
+tags: Reading Personal
 ---
 
 This blog post is not about giving you instructions on how to read; rather it illustrates my findings on how to read. Recently, I started reading about "how to read optimally?". During my expedition, I came across many articles which helped me burst the common myths about reading.

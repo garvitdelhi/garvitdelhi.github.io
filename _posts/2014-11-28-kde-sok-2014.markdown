@@ -2,6 +2,6 @@
 layout: post
 title:  "Kde Sok-2014"
 date:   2014-11-28 14:34:25
-tags: KDE SOK
+tags: SoK KDE Tech
 ---
 Well I finally got my project accepted at this years kde Sok14 looking forward to an interesting winter ahead.

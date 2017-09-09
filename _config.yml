@@ -31,6 +31,19 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+        path: ''
+        type: tags
+    values:
+        permalink: "/tag/:title/"
+        layout: tag
+        tag:
+
+collections:
+    tags:
+        title: Tags
+        output: true
 
 email: garvitdelhi@gmail.com
 logo: "/assets/images/logo.png"

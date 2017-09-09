@@ -2,7 +2,7 @@
 layout: post
 title:  "Knetwalk running on KF5 :)"
 date:   2014-12-30 14:34:25
-tags: KDE
+tags: SoK KDE Tech
 ---
 With this screen shot i think my work of porting knetwalk is complete. I would like other kde members to test knetwalk's framework branch and report if they are experiencing any issue installing it on kf5. I will try and fix that error on my part.
 

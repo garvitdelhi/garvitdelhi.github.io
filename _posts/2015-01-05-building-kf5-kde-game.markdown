@@ -2,7 +2,7 @@
 layout: post
 title:  "Building KF5 KDE Game "
 date:   2015-01-05 14:34:25
-tags: KDE
+tags: SoK KDE Tech
 ---
 
 My journey in SoK (Season of KDE) 2014 has been official ended. While I was working in KDE-Games I found that there is no such guide on how to build and get started with development of KDE-Games. So I have written a small guide on how to set-up building environment for KDE-Games based on my experience in SoK 2014. I would love to share it with the KDE members.

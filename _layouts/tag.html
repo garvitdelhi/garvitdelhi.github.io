@@ -36,7 +36,14 @@
         {% endif %}
         <section class="post-content">
           <a name="topofpage"></a>
-          {{content}}
+          <h2 class='tag-header' id="{{ tag[0] | slugify }}-ref">{{ tag[0] | capitalize }}</h2>
+          <ul>
+              {% for post in site.posts %}
+                {% if post.tags contains page.title %}
+                  <li class="active"><a href="{{post.url}}" class="active">{{post.title}}</a></li>
+                {% endif %}
+              {% endfor %}
+          </ul>
         </section>
       </article>
     </main>
