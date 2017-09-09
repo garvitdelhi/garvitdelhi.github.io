@@ -35,8 +35,6 @@
         </div>
         {% endif %}
         <section class="post-content">
-          <a name="topofpage"></a>
-          <h2 class='tag-header' id="{{ tag[0] | slugify }}-ref">{{ tag[0] | capitalize }}</h2>
           <ul>
               {% for post in site.posts %}
                 {% if post.tags contains page.title %}
@@ -45,6 +43,13 @@
               {% endfor %}
           </ul>
         </section>
+        <footer class="post-footer">
+          <section class="tags">
+            <a href="/tags" class="tag">
+                <div style="transform: rotate(180deg);float: left;padding: 0px 0px 0px 10px;">➔</div> All Tags
+            </a>
+          </section>
+        </div>
       </article>
     </main>
     {% include footer.html %}
