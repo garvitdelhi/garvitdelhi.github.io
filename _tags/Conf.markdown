@@ -1,3 +1,4 @@
 ---
 title: Conf
+slug: conf
 ---

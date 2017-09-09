@@ -1,3 +1,4 @@
 ---
 title: KDE
+slug: kde
 ---

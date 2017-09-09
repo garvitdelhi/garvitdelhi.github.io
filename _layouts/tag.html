@@ -37,9 +37,12 @@
         <section class="post-content">
           <ul>
               {% for post in site.posts %}
-                {% if post.tags contains page.title %}
-                  <li class="active"><a href="{{post.url}}" class="active">{{post.title}}</a></li>
-                {% endif %}
+                {% for tag in post.tags %}
+                    {% assign tag = tab | slugify %}
+                    {% if tag contains page.title %}
+                      <li class="active"><a href="{{post.url}}" class="active">{{post.title}}</a></li>
+                    {% endif %}
+                {% endfor %}
               {% endfor %}
           </ul>
         </section>
