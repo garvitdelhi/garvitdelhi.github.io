@@ -52,7 +52,7 @@
           <section class="tags">
               Tags:
           {% for tag in page.tags %}
-            <a class="tag" href="/tag/{{ tag | slugify }}">#{{ tag }}</a>&nbsp;
+            <a class="tag" href="/tag/{{ tag | slugify }}">{{ tag }}</a>&nbsp;
           {% endfor %}
           </section>
           <section class="share">
