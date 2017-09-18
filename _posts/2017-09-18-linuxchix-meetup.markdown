@@ -14,7 +14,7 @@ of the speakers were from [Zomato](https://zomato.com). Hence felt like a reunio
 
 About my talk, it started with the history of why the extended file system (Ext) came into existence. I covered the file system with which Linux started, i.e., Minix (Mini-Unix) file system. Continuing to the presence of Ext and Ext2 along with Xia file system. Here is a snippet from my presentation which shows a quick comparison between all the filesystems mentioned above:
 
-![Comparison between Minix, Ext, Ext2, and Xia File systems]({{ site.url }}/assets/article_images/2017-09-15-linuxchix-meetup/file_system_comparison.png "Comparison between Minix, Ext, Ext2, and Xia File systems")
+![Comparison between Minix, Ext, Ext2, and Xia File systems]({{ site.url }}/assets/article_images/2017-09-15-linuxchix-meetup/file_system_comparison_mini.png "Comparison between Minix, Ext, Ext2, and Xia File systems")
 
 Further, I explained the basic elements of a file system, i.e., inodes, directories, and links. I explained the need for a virtual file system layer that was added by _Chris Provenzano_ and how it helped abstracting out file systems for application layer while never wandering about the implementation of the actual file system on the hardware. It was much of learning for me too as I found many facts and stories while looking out for the content for this presentation. You can find my presentation
 hosted on the drive, with this [link](https://docs.google.com/presentation/d/1KfvcYccbXzVP5F8Oh6a1zVi9GpA6zWO14NVbdpuPBVw/edit?usp=sharing). I took most of my inspiration from the research paper published by Rémy Card, Theodore Ts'o, and Stephen Tweedie. You can find their research paper [here](http://e2fsprogs.sourceforge.net/ext2intro.html).
