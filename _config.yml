@@ -7,8 +7,6 @@ description: My Personal Blog
 paginate: 5
 url: "https://garvit.in"
 baseurl: ""
-# Don't change permalink! You are re-writing URLs from old RP.io site from brandonparsons.me
-permalink: :year-:title
 
 exclude:
   - .gitignore
@@ -73,12 +71,12 @@ social:
     share_title:
     share_link:
 
-#  - icon:	facebook
-#    url:	https://facebook.com/???
-#    desc: Connect with me facebook
-#    share_url: //www.facebook.com/sharer.php
-#    share_title: ?t=
-#    share_link: "&amp;u="
+  - icon:	facebook
+    url:	https://facebook.com/garvitdelhi
+    desc: Connect with me facebook
+    share_url: //www.facebook.com/sharer.php
+    share_title: ?t=
+    share_link: "&amp;u="
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
