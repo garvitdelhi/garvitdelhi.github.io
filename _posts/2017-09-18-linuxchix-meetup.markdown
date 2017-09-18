@@ -3,7 +3,6 @@ layout: post
 title:  "LinuxChix Meetup"
 date:   2017-09-18 4:00:00
 tags: Talk File-System Linux Tech
-draft: 1
 ---
 
 Yesterday, I gave a talk on Linux file systems at LinuxChix Delhi meetup group. I have to firstly apologize for all the participants and the organizers, Shivani Bhardwaj and Priyal Trivedi for reaching the venue late. It is a great effort by both of them to enlighten the youth and female community about the advancements in Linux. They are trying their best to help them learn basics, benefits and enormous opportunities that Linux exposes. It is optimistic to see the female community taking such
