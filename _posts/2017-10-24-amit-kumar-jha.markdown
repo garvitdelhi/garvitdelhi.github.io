@@ -24,4 +24,4 @@ Today, I am writing this blog as we waved him off at the airport. He to me is a 
 
 All the best Amit (#AKTECH) :)
 
-![From left Garvit, Amit, Suhaib]({{ site.url }}/assets/article_images/2017-10-24-amit-kumar-jha/amit_suhaib_garvit-min.jpg "From left Garvit, Amit, Suhaib")
+![From left Garvit, Amit, Suhaib -- credits Anu Mittal]({{ site.url }}/assets/article_images/2017-10-24-amit-kumar-jha/amit_suhaib_garvit-min.jpg "From left Garvit, Amit, Suhaib -- credits Anu Mittal")
