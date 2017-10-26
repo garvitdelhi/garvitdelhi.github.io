@@ -2,6 +2,7 @@
 layout: post
 title:  "5 Myths about reading"
 date:   2017-09-02 6:29:31
+comments: true
 tags: Reading Personal
 ---
 

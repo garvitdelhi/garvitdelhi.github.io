@@ -3,6 +3,7 @@ layout: post
 title:  "Amit Kumar Jha"
 date:   2017-10-24 4:00:00
 tags: Personal Friend AKTECH
+comments: true
 draft: 1
 ---
 

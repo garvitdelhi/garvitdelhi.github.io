@@ -2,6 +2,7 @@
 layout: post
 title:  "LinuxChix Meetup"
 date:   2017-09-18 4:00:00
+comments: true
 tags: Talk File-System Linux Tech
 ---
 
