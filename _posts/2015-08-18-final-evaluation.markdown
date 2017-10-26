@@ -2,6 +2,7 @@
 layout: post
 title:  "Final evaluation"
 date:   2015-08-18 14:34:25
+comments: true
 tags: GSOC KDE Tech
 ---
 
