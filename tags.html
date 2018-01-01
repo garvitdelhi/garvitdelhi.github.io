@@ -8,6 +8,9 @@ permalink: /tags/
 
 <ul>
   {% for tag in tags_list %}
+    {% if tag.title == "AKTECH" %}
+        {{ tag | inspect }}
+    {% endif %}
     <li>
       <a href="/tag/{{ tag.title | slugify }}" class='list-group-item'>{{ tag.title }}</a>
     </li>

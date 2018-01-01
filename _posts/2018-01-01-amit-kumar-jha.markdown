@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Amit Kumar Jha"
-date:   2017-10-24 4:00:00
+date:   2018-01-01 4:00:00
 tags: Personal Friend AKTECH
 comments: true
-draft: 1
 ---
 
 It all started way back in May of 2016, a guy wearing helmet, on a bike stopped me in the middle of the road. This guy didn't even care removing his helmet and out of nowhere asked "Hey, are you Garvit? Are you the one going to Singapore?". While I couldn't understand what was happening, I politely replied yes. That is how I met Amit Kumar Jha.
