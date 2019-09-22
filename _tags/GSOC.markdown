@@ -1,0 +1,4 @@
+---
+title: GSOC
+slug: gsoc
+---

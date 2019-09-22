@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "QtCon && Akademy 2016"
+date:   2016-09-14 14:34:25
+comments: true
+tags: Talk Conf KDE Tech
+---
+
+This year Akademy took place along with QtCon in Berlin, Germany. 2016 is a special year for many FOSS projects: KDE has its 20th birthday while FSFE and VideoLAN both have their 15th anniversary. So, this year KDE, Qt, FSFE, VideoLAN and KDAB came together to bring QtCon, where attendees met, collaborate and got the latest news of all these projects at the bcc in Berlin from the 1st to the 4th of September 2016. Following QtCon was KDE's Akademy BoF.
+
+This was my first QtCon and Akademy. I was supposed to arrive on 3rd September, 9:00 am. Yeah, I know I was already two days behind the schedule but.... Anyways I still had two days and my talk on 3rd September. But, unfortunately, my flight got cancelled. Flight was rescheduled and reached Berlin at 9:00 pm instead. Sadly I also missed my talk on 3rd of September... :(
+
+But I managed to attend the last day at QtCon, and it was incredible. I know I did miss a lot of things but still cherished the events I attended.
+
+Firstly, I met Lydia, President of KDE Ev. This was my first meeting with her, and it was a delight to meet her in person.
+
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160904_100221.jpg)
+
+Then I attended few of the talks which included a talk on ThreadWeaver by Mirko Boehm. He explained basics of ThreadWaver library by KDE and told about runnable, thread pools, and sequences. It was more of an introductory talk on how it works and where it can be used than diving into API. I guess this was much needed, I hope I will try and tweak some things around it soon :)
+Next was a talk by Jos van den Oever on how to use automated IO code generators and why writing your own IO read/write code is a dreadful idea. He also explained about his experience in reading PPT format file and how he wrote XML description for it, which was then translated into code using IO code generators for file formats.
+Another fascinating talk was on Open Web Services by Cornelius Schumacher. He talked about problems we face and What can we do to make a web service Open Source. He also mentioned maybe we could have a certification authority that makes sure that data on the web service is safe, secure and is not miss used, and uploader of the data have the complete ownership of that data. It still needs to have long discussions as many points were still not covered.
+Then I was video operator in the talk on GCompris by Sagar Chand Agrawal. He explained why they shifted their app to Qt and what do they share in common with KDE.
+Lastly,  Ken Vermette told us about how we should change flow and design of our application. How it adversely affect the user's mind if we change the complete design and keep flow unchanged or vice-versa. He also told us how we should change design first, let the user get acquainted with the new design and then gradually improve the workflow of the application.
+
+Here are some of the pics
+
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160904_131648.jpg)
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160904_153826.jpg)
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160904_150639.jpg)
+
+I spent some time with the FSFE guys and yes I got some stickers from them :D
+
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160904_141147.jpg)
+
+Representatives from FOSSASIA were also part of the event. It was great to reunite with them; we had a long chat with them discussed problems existing in India and how we can solve them through open source technologies.
+
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160904_173434.jpg)
+
+![]({{ site.url }}/assets/article_images/2016-09-14-qtcon-akademy-2016/IMG_20160905_133245.jpg)
+
+At last, it was a blasting experience, and I took a lot of memories from this trip. After QtCon I went to Toulouse, France to meet another KDE contributor Bruno. Here's a small picture  with him ;)

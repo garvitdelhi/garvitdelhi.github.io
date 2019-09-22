@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "conf.kde.in 2016"
+date:   2016-03-12 14:34:25
+comments: true
+tags: Talk Conf KDE Tech
+---
+
+This year's conf.kde.in was organised in Jaipur. I was super excited to be part of KDE India and conf.kde.in for the first time. I was taken back by the preparations that volunteers had done. I really want to take some moment to put forward my thanks to the whole LNMIIT team for such a great welcome and hospitality. Special thanks to "Sagar Chand Agarwal" who made his whole effort in making the conference a success.
+I took a lot from various speakers, each of them was a pioneer in what they were doing. It was an exceptional experience for me. The best part was the development sprints where we taught students on how they can build their first own Qt applications. Students showed keen interests and asked many questions, we tried our best to help them and solve as many problems as we could in the small time span we were given.
+Those two days gave me an experience of a lifetime of many speakers. I want to specially mention to "Pradeepto", at first seeing his reply on emails made me curious to meet him in person. But my perception towards changed him when I met him personally, I got to know that he was the creator of KDE India, Season of KDE and conf.kde.in, and he shared his own experience of his journey in details. We even sat on the grass to listen to his experience and felt it should never end, that was
+his charisma which I guess attracted almost every person who attended conf.kde.in.
+After the event, I went on to explore Jaipur with Bruno and Timothee, which gave me insight about how they started their work on GCompris and Krita respectively. It was fascinating to know the motivation that has kept them working for so long years.
+
+At the end, I would say it was awesome to be a part of such a great conference hope to continue contributing and be part of many such conferences in future :)
+
+Pictures to end the blog ;)
+
+![First thing I saw when I landed to university]({{ site.url }}/assets/article_images/2016-03-12-confkdein-2016/DSC_1055.jpg)
+![The fun moments]({{ site.url }}/assets/article_images/2016-03-12-confkdein-2016/DSC_1071.jpg)
+!["Mr. Pradeepto"]({{ site.url }}/assets/article_images/2016-03-12-confkdein-2016/DSC_1070.jpg)
+![The whole crew at end]({{ site.url }}/assets/article_images/2016-03-12-confkdein-2016/DSC_1072.jpg)

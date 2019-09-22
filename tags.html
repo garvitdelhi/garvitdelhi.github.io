@@ -1,0 +1,15 @@
+---
+title: Tags
+description: Tag list from the blog
+permalink: /tags/
+---
+
+{% assign tags_list = site.tags %}
+
+<ul>
+  {% for tag in tags_list %}
+    <li>
+      <a href="/tag/{{ tag.title | slugify }}" class='list-group-item'>{{ tag.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
